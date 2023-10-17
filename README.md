@@ -30,7 +30,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
     <li>How to reach me<span> <a href="akshatabhondekar04@gmail.com" target="_blank"><strong> akshatabhondekar04@gmail.com </strong></a> </span></li> 
 
   <li>All of my projects are available at <span> <a href="Put here portfolio link" target="_blank"><strong> My Portfolio</strong> </a></span> </li> 
-  <li>For Resume<span> <a href="[put here drive link of resume](https://drive.google.com/file/d/1F6zk71aV2mUQw_NT-JeNgUpboURhyKK8/view?usp=sharing)" target="_blank"><strong> Click </strong></a> </span></li> 
+  <li>For Resume<span> <a href="https://drive.google.com/file/d/1F6zk71aV2mUQw_NT-JeNgUpboURhyKK8/view?usp=sharing" target="_blank"><strong> Click </strong></a> </span></li> 
   
 
 </ul>
