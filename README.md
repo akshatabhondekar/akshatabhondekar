@@ -18,7 +18,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
 
 ***<h2>💬 About me ...</h2><br>***
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
+  <li>🌱🌱 I’m currently learning Springboot,Hibernate,Angular</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
 <!--   <li>📰 My First Web Page_________________________________</li> -->
 <li>👯 I’m looking to collaborate on ..</li>
