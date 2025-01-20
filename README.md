@@ -1,10 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF00FF&amp;size=20&amp;lines=Hey!+It's+Akshata+Bhondekar!;Java+Back-end+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF00FF&amp;size=20&amp;lines=Hey!+It's+Akshata+Bhondekar!;Angular Developer...;" style="width: 100%;">
 <p align="center">
   <img src="https://camo.githubusercontent.com/f4a229f89163b6f8152c42d82d085a067312a83088c595b966742c6a5f92df46/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726f786966792d696f2f696d6167652f75706c6f61642f635f66696c6c2c665f6175746f2c715f6175746f2c6470725f6175746f2c775f313434302c685f3630302f76312f636d732f696d616765732f61727469636c65732f546b79463649306c4c776644464a674b3438464b32416c70667464697447374773424855704230452e706e67" width="auto" alt="accessibility text">
 </p>
 
 ***<h3 align="center" dir="auto"><a id="user-content-a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team" class="anchor" aria-hidden="true" href="#a-passionate-java-back-end-developer-dedicated-to-developing-robust-applications-that-interact-with-the-backend-part-of-web-applications-extensive-expertise-in-website-architecture-design-and-web-design-and-web-api-designs-problem-solving-mindset-with-a-goal-to-optimize-my-application-for-better-stability-and-speed-love-to-work-in-a-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-I'm a passionate Java developer skilled backend stack who always keen to learn new technologies 😃. I focuses on writing clean, and efficient code team leading capabilities ✨.</h3>***
+"I'm a passionate Angular frontend developer skilled in building dynamic web applications. I always strive to learn new technologies and focus on writing clean, efficient code. I also have team-leading capabilities and enjoy collaborating with others to deliver high-quality projects." ✨.</h3>***
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -17,7 +17,7 @@ I'm a passionate Java developer skilled backend stack who always keen to learn n
 
 ***<h2>💬 About me ...</h2><br>***
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate,Angular</li>
+<!--   <li>🌱🌱 I’m currently learning Springboot,Hibernate,Angular</li> -->
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
 <!--   <li>📰 My First Web Page_________________________________</li> -->
 <li>👯 I’m looking to collaborate on ..</li>
