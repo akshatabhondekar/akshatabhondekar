@@ -31,7 +31,6 @@
 
   <li>All of my projects are available at <span> <a href="https://akshatabhondekar.github.io/" target="_blank"><strong> My Portfolio</strong> </a></span> </li> 
   <li>For Resume<span> <a href="https://drive.google.com/file/d/1F6zk71aV2mUQw_NT-JeNgUpboURhyKK8/view?usp=sharing" target="_blank"><strong> Click </strong></a> </span></li>
-   <li>For Resume<span> <a href="[https://drive.google.com/file/d/1F6zk71aV2mUQw_NT-JeNgUpboURhyKK8/view?usp=sharing](https://drive.google.com/file/d/1nfR6pPkBc7sHFNClpgq8dKlk7zsOH3Sj/view)" target="_blank"><strong> Click 2 </strong></a> </span></li> 
   
   
 
